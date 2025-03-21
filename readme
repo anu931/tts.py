@@ -1,0 +1,16 @@
+# Text to Speech with Translation
+
+This script allows you to convert text input to speech, translate the text to a specified language, and then convert the translated text to speech. It uses the `translate` library for translation and the `gTTS` library for text-to-speech conversion.
+
+## Requirements
+
+- Python 3.6 or higher
+- `translate` library
+- `gTTS` library
+
+## Installation
+
+1. Install the required libraries:
+
+```sh
+pip install translate gtts
